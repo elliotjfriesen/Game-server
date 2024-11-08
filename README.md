@@ -1,2 +1,2 @@
 # Game-server
-A game server made in Golang
+A game server developed in Golang
